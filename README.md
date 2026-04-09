@@ -4,12 +4,13 @@ Ce projet a été réalisé dans le but d'utiliser des techniques de Machine Lea
 
 Objectifs du Projet
 
-Analyse Exploratoire (EDA) : Identifier les variables clés influençant le défaut de paiement.
-Segmentation (Clustering) : Regrouper les clients selon leurs profils de risque et comportements financiers.
-Prédiction (Classification) : Développer un modèle capable de prédire si un nouveau client présente un risque de défaut.
+- Analyse Exploratoire (EDA) : Identifier les variables clés influençant le défaut de paiement.
+- Segmentation (Clustering) : Regrouper les clients selon leurs profils de risque et comportements financiers.
+- Prédiction (Classification) : Développer un modèle capable de prédire si un nouveau client présente un risque de défaut.
 
 Technologies et Outils
-Langage : Python 
+
+Langage : Python \\
 Librairies : 
 - Analyse : Pandas, NumPy
 - Visualisation : Matplotlib, Seaborn
