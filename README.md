@@ -1,7 +1,9 @@
 Modélisation du Risque de Crédit et Segmentation Client
+
 Ce projet a été réalisé dans le but d'utiliser des techniques de Machine Learning pour évaluer la solvabilité des clients et optimiser les stratégies de prêt d'une institution financière.
 
 Objectifs du Projet
+
 Analyse Exploratoire (EDA) : Identifier les variables clés influençant le défaut de paiement.
 Segmentation (Clustering) : Regrouper les clients selon leurs profils de risque et comportements financiers.
 Prédiction (Classification) : Développer un modèle capable de prédire si un nouveau client présente un risque de défaut.
