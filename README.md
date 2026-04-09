@@ -8,18 +8,20 @@ Objectifs du Projet
 - Segmentation (Clustering) : Regrouper les clients selon leurs profils de risque et comportements financiers.
 - Prédiction (Classification) : Développer un modèle capable de prédire si un nouveau client présente un risque de défaut.
 
+
 Technologies et Outils
 
-Langage : Python \\
+Langage : Python
+
 Librairies : 
 - Analyse : Pandas, NumPy
 - Visualisation : Matplotlib, Seaborn
 - Machine Learning : Scikit-learn (K-Means, Random Forest / Régression Logistique)
 
 Méthodologie
-Nettoyage des données : Traitement des valeurs manquantes et encodage des variables catégorielles.
-Clustering (K-Means) : Création de segments de clientèle (ex: Profils prudents, Profils à haut risque).
-Modélisation : Entraînement de modèles de classification pour prédire le risque de crédit.
+- Nettoyage des données : Traitement des valeurs manquantes et encodage des variables catégorielles.
+- Clustering (K-Means) : Création de segments de clientèle (ex: Profils prudents, Profils à haut risque).
+- Modélisation : Entraînement de modèles de classification pour prédire le risque de crédit.
 Évaluation : Analyse de la performance via la matrice de confusion et le score de précision.
 
 Résultats clés
