@@ -25,5 +25,6 @@ Méthodologie
 Évaluation : Analyse de la performance via la matrice de confusion et le score de précision.
 
 Résultats clés
+
 Identification des facteurs déterminants (ex: revenus, historique de crédit, ratio d'endettement).
 Proposition de recommandations pour l'ajustement des politiques de crédit selon les segments identifiés.
